@@ -1,4 +1,4 @@
-Name: Frogbot pull request scan"
+name: Frogbot pull request scan"
 on:
   pull_request_target:
     types: [opened, synchronize]

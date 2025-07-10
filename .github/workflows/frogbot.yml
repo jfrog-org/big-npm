@@ -18,7 +18,6 @@ permissions:
 jobs:
   frogbot-scan:
     runs-on: ubuntu-latest
-    environment: frogbot
     strategy:
       matrix:
         branch: ["main"]
